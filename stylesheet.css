@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'sans_forgeticaregular';
+    src: url('SansForgeticaWebkit/sansforgetica-regular-webfont.woff2') format('woff2'),
+         url('SansForgeticaWebkit/sansforgetica-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.centered {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.forgetica {
+    font-family: sans_forgeticaregular;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.rightfloat {
+    float: right;
+}
+
+.leftfloat {
+    float: left;
+}
+
+#myName {
+    font-size: 80px;
+}
+
+
